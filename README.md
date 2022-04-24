@@ -1,4 +1,3 @@
-# vcsa_info
 Display the following vCenter summary
 Date and time
 vCenter version
